@@ -1,0 +1,2 @@
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Auto Save Points\AutoSavePoints\obj\Debug\AutoSavePoints.csproj.AssemblyReference.cache
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Auto Save Points\AutoSavePoints\obj\Debug\AutoSavePoints.csproj.CoreCompileInputs.cache
