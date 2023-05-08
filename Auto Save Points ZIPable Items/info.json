@@ -1,0 +1,19 @@
+{
+  "name": "Auto Save Points",
+  "description": "Automatically creates quick saves after a completed objective.",
+  "dll_file": "AutoSavePoints.dll",
+  "last_edit": 638146311050218343,
+  "pub_id": "",
+  "json_version": "",
+  "version": "",
+  "tagline": "",
+  "repository": "",
+  "is_public": false,
+  "unlisted": false,
+  "preview_image": "",
+  "web_preview_image": "",
+  "dependencies": null,
+  "mod_dependencies": null,
+  "menu_mod": false,
+  "ContentType": 3
+}

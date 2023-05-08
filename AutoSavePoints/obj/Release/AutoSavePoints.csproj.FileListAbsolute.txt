@@ -1,0 +1,13 @@
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Auto Save Points\AutoSavePoints\bin\Release\AutoSavePoints.dll
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Auto Save Points\AutoSavePoints\bin\Release\AutoSavePoints.pdb
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Auto Save Points\AutoSavePoints\bin\Release\0Harmony.dll
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Auto Save Points\AutoSavePoints\bin\Release\Assembly-CSharp.dll
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Auto Save Points\AutoSavePoints\bin\Release\ModLoader.dll
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Auto Save Points\AutoSavePoints\bin\Release\UnityEngine.CoreModule.dll
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Auto Save Points\AutoSavePoints\bin\Release\UnityEngine.dll
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Auto Save Points\AutoSavePoints\bin\Release\ModLoader.xml
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Auto Save Points\AutoSavePoints\obj\Release\AutoSavePoints.csproj.AssemblyReference.cache
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Auto Save Points\AutoSavePoints\obj\Release\AutoSavePoints.csproj.CoreCompileInputs.cache
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Auto Save Points\AutoSavePoints\obj\Release\AutoSavePoints.csproj.CopyComplete
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Auto Save Points\AutoSavePoints\obj\Release\AutoSavePoints.dll
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Auto Save Points\AutoSavePoints\obj\Release\AutoSavePoints.pdb

@@ -1,0 +1,1 @@
+Have the game auto save after completing a user defined amount of missions. Default is 2 completed missions.
