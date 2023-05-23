@@ -11,3 +11,4 @@ I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mod
 I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Auto Save Points\AutoSavePoints\obj\Release\AutoSavePoints.csproj.CopyComplete
 I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Auto Save Points\AutoSavePoints\obj\Release\AutoSavePoints.dll
 I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Auto Save Points\AutoSavePoints\obj\Release\AutoSavePoints.pdb
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Auto Save Points\AutoSavePoints\bin\Release\Valve.Newtonsoft.Json.dll
