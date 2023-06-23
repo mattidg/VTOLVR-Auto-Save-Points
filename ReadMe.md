@@ -4,5 +4,9 @@ Image is from me
 
 Changelog:
 
+2.0.0
+Added the ability to use time, missions completed, or both to auto save
+Added the option to turn off the player text alerts when the mod auto saves for you
+
 1.0.0:
 Mod released.
